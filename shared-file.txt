@@ -6,7 +6,8 @@ Instructions:
 
 Each student should modify ONLY the line below.
 
-Current Version: Version A
+Current Version: Version B
+
 
 ==================================================
 
