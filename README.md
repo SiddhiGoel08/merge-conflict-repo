@@ -6,7 +6,8 @@ This repository is designed specifically for learning and practicing Git merge c
 
 In real software projects, multiple developers often modify the same file or even the same line of code. When Git cannot automatically combine the changes, a merge conflict occurs.
 
-This repository provides a safe environment to understand:
+This repository provides a safe environment to understand:--
+
 
 - Branching
 - Concurrent edits
